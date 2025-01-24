@@ -16,15 +16,18 @@ export default function Log({ logs }) {
 const styles = StyleSheet.create({
     container : {
         alignItems: 'flex-start',
-        width: '100%',
+        // width: '100%',
     },
     text : {
         color: "white",
-    backgroundColor: "black",
+      backgroundColor: "#4B0082",
     padding: 10,
     marginVertical: 5, 
     marginLeft: 20, 
-    borderRadius: 8, 
+    borderRadius: 8,
+    marginBottom : 10,
+    padding : 15,
     textAlign : 'right',
+    fontSize : 18,
     }
 });

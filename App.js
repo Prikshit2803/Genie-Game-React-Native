@@ -1,9 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
-import { Modal, StyleSheet, Text, View, Alert } from 'react-native';
+import { Modal, StyleSheet, Text, View, Alert,Dimensions } from 'react-native';
 import NumberInput from './components/NumberInput';
 import { useState } from 'react';
 import NumberGuesser from './components/NumberGuesser';
 import GameEnd from './components/GameEnd';
+
+const { width, height } = Dimensions.get('window');
 
 export default function App() {
   const[input,setInput] = useState('');
@@ -50,8 +52,11 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    width: width,
+   height: height,
+    backgroundColor: '#f0f0f0',
     alignItems: 'center',
     justifyContent: 'center',
+    paddingHorizontal: 20,
   },
 });
