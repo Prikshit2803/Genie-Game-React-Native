@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-24 at 18 07 03](https://github.com/user-attachments/assets/568686fd-5fa6-4baa-be7e-505a59c6c9a9)Genie-Game App
+
 
 Pick a number and try to outsmart the Genie.But be warned, the Genie has never lost and dont event think about trying to fool him !! Apart from that he is a pretty Chill guy
 
@@ -8,6 +8,7 @@ Pick a number and try to outsmart the Genie.But be warned, the Genie has never l
 <img src="https://github.com/user-attachments/assets/820ea967-9cf0-4594-886a-a65663960860" alt="Screenshot 2" width="50%"  />
 <img src="https://github.com/user-attachments/assets/f5e45771-6e94-4791-9473-c70e75178648" alt="Screenshot 3" width="50%"  />
 
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-24 at 18 07 03](https://github.com/user-attachments/assets/568686fd-5fa6-4baa-be7e-505a59c6c9a9)Genie-Game App
 
 <img src="https://github.com/user-attachments/assets/202b7970-aaf5-495a-9fb1-8e1f83da0875" alt="Screenshot 4" width="50%"  />
 
