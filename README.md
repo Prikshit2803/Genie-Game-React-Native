@@ -9,9 +9,6 @@ Pick a number and try to outsmart the Genie.But be warned, the Genie has never l
 <img src="https://github.com/user-attachments/assets/f5e45771-6e94-4791-9473-c70e75178648" alt="Screenshot 3" width="50%"  />
 
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-24 at 18 07 03](https://github.com/user-attachments/assets/73bf87a0-6555-4fcb-92e8-04519ffe9286)
-
-
 <img src="https://github.com/user-attachments/assets/202b7970-aaf5-495a-9fb1-8e1f83da0875" alt="Screenshot 4" width="50%"  />
 
 
